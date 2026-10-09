@@ -956,7 +956,7 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-name="Mundial" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Sports",Mundial
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="NBC Sports" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Sports",NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="Oman Sports TV" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Sports",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Sports",PTV Sports
@@ -988,8 +988,6 @@ https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Stars" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="WILLOW SPORT" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Sports",Trace Sport Stars
-https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="WOF 1" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Sports",WOF 1
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-name="Xtream Sports" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Sports",Xtream Sports
