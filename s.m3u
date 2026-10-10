@@ -303,8 +303,6 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Music India" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Indian Music",Music India
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-name="Music India [Backup 1]" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Indian Music",Music India [Backup 1]
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
 #EXTINF:-1 tvg-name="NH BollyRaga" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Indian Music",NH BollyRaga
 https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
 #EXTINF:-1 tvg-name="Only Music" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Indian Music",Only Music
