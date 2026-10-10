@@ -1100,3 +1100,6 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Kids",Discovery Kids
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Kids",Mr Bean
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
