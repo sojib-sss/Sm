@@ -1105,3 +1105,6 @@ https://tvsen5.aynaott.com/espn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Sports",TSN 1
 https://tvsen7.aynaott.com/tsn1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Sports",TSN 2
+https://tvsen7.aynaott.com/tsn2/index.m3u8
