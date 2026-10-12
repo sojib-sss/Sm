@@ -1111,3 +1111,6 @@ https://tvsen7.aynaott.com/tsn2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Sports",Tsn 3
 https://tvsen7.aynaott.com/tsn3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Sports",SportGrid
+https://tvsen6.aynaott.com/SportsGrid/index.m3u8
