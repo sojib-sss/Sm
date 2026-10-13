@@ -769,8 +769,6 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Baby Shark TV" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Baby Shark TV [Backup 1]" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Kids",Baby Shark TV [Backup 1]
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Bantul the Great" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Kids",Bantul the Great
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Barbie and Friends" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Kids",Barbie and Friends
