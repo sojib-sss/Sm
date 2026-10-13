@@ -1107,3 +1107,6 @@ https://tvsen6.aynaott.com/SportsGrid/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Sports",DD sports
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Sports",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
