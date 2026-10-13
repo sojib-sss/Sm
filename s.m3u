@@ -787,8 +787,6 @@ https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-name="Doraemon" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Kids",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
-#EXTINF:-1 tvg-name="Doraemon TV" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Kids",Doraemon TV
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Duck TV" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Kids",Duck TV
 https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/playlist.m3u8
 #EXTINF:-1 tvg-name="Epic Kids Digital" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Kids",Epic Kids Digital
