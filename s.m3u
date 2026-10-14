@@ -1124,3 +1124,6 @@ https://homair-tv-production.up.railway.app/api/play/beIN%20Sports%202.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Sports",Oman Sports TV HD
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chun
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Sports",BEIN 3
+https://homair-tv-production.up.railway.app/api/play/Bein%20Sports%203.m3u8
