@@ -1116,3 +1116,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Sports",T Sport
 http://103.16.24.4:8083/14.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/7d5e774586832153c925c19a643bf190608d4a70/IMG-20261005-WA0004(1).jpg" group-title="Sports",T Sports HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
