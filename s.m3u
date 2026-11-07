@@ -735,8 +735,6 @@ https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="Stingray The Spa" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Documentary & Wildlife",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="Terra Mater WILD English" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Documentary & Wildlife",Terra Mater WILD English
-https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL XP [Backup 2]" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Documentary & Wildlife",TRAVEL XP [Backup 2]
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-name="Travelxp English" tvg-logo="https://raw.githubusercontent.com/sojib-sss/Sm/3e220e662a9ebdf9fdaa39b5825abc7b78f472e3/IMG-20261005-WA0004(1).jpg" group-title="Documentary & Wildlife",Travelxp English
